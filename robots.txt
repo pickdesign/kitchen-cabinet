@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+https://pickdesign.github.io/kitchen-cabinet/sitemapx.xml
